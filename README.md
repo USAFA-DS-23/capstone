@@ -10,6 +10,9 @@ Repository for files, guidance, and a starting point for the capstone project
 HUD: 
 https://www.huduser.gov/portal/pdrdatas_landing.html
 
+BAH Primer: 
+https://www.defensetravel.dod.mil/Docs/perdiem/BAH-Primer.pdf
+
 BAH:
 https://www.defensetravel.dod.mil/site/bahCalc.cfm
 https://www.defensetravel.dod.mil/site/pdcFiles.cfm?dir=/Allowances/BAH/Component_Breakdown/
