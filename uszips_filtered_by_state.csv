@@ -1,0 +1,115 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+20001,38.91084,-77.0178,Washington,DC,District of Columbia,TRUE,,46716,6816.2,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20002,38.90511,-76.98437,Washington,DC,District of Columbia,TRUE,,64895,3852.6,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20003,38.88125,-76.99056,Washington,DC,District of Columbia,TRUE,,31213,4553.3,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20004,38.89485,-77.02868,Washington,DC,District of Columbia,TRUE,,1975,1800.2,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20005,38.90468,-77.0315,Washington,DC,District of Columbia,TRUE,,13222,11575.2,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20006,38.89859,-77.04134,Washington,DC,District of Columbia,TRUE,,2756,3669.1,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20007,38.91418,-77.07866,Washington,DC,District of Columbia,TRUE,,27562,3455.4,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20008,38.93594,-77.05932,Washington,DC,District of Columbia,TRUE,,29457,3496.9,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20009,38.91993,-77.03747,Washington,DC,District of Columbia,TRUE,,52117,14096.5,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20010,38.93237,-77.03003,Washington,DC,District of Columbia,TRUE,,34713,10746.8,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20011,38.95241,-77.02278,Washington,DC,District of Columbia,TRUE,,68695,4638.6,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20012,38.97704,-77.03195,Washington,DC,District of Columbia,TRUE,,16351,2287.8,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20015,38.96659,-77.05848,Washington,DC,District of Columbia,TRUE,,16395,1716.6,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20016,38.93815,-77.09147,Washington,DC,District of Columbia,TRUE,,34783,2829.2,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20017,38.93845,-76.99317,Washington,DC,District of Columbia,TRUE,,20450,3091.4,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20018,38.92612,-76.97272,Washington,DC,District of Columbia,TRUE,,19943,2159.4,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20019,38.8918,-76.9427,Washington,DC,District of Columbia,TRUE,,62625,3352.3,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20020,38.8616,-76.97529,Washington,DC,District of Columbia,TRUE,,56131,4174.5,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20024,38.87826,-77.02758,Washington,DC,District of Columbia,TRUE,,13354,1699.3,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20032,38.83438,-77.00673,Washington,DC,District of Columbia,TRUE,,42930,2621.5,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20036,38.90696,-77.04166,Washington,DC,District of Columbia,TRUE,,5798,6303.5,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20037,38.89797,-77.05604,Washington,DC,District of Columbia,TRUE,,14559,8799.9,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20045,38.89673,-77.0308,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20052,38.90013,-77.04698,Washington,DC,District of Columbia,TRUE,,751,66553.4,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20053,38.88419,-77.011,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20057,38.90918,-77.07559,Washington,DC,District of Columbia,TRUE,,3841,8831.6,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20064,38.93639,-76.99914,Washington,DC,District of Columbia,TRUE,,2207,3769.6,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20202,38.88707,-77.02101,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20204,38.88556,-77.01443,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20228,38.88631,-77.03016,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20230,38.89375,-77.03275,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20240,38.89446,-77.0426,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20245,38.89337,-77.0446,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20260,38.88367,-77.02504,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20317,38.93633,-77.01235,Washington,DC,District of Columbia,TRUE,,406,762.1,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20319,38.86554,-77.01784,Washington,DC,District of Columbia,TRUE,,42,233.8,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20390,38.87901,-76.9937,Washington,DC,District of Columbia,TRUE,,359,53406.5,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20405,38.89638,-77.04259,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20418,38.8928,-77.04776,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20427,38.90206,-77.04755,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20506,38.89709,-77.03871,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20510,38.89278,-77.00689,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20520,38.89479,-77.04818,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20535,38.89447,-77.02485,Washington,DC,District of Columbia,TRUE,,0,619.2,11001,District of Columbia,{'11001':100},District of Columbia,11001,FALSE,FALSE,America/New_York
+20540,38.88793,-77.00471,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20551,38.8928,-77.0458,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20553,38.88695,-77.02297,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20560,38.88824,-77.02596,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20565,38.89062,-77.01939,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20566,38.89565,-77.05504,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+20593,38.86671,-77.01021,Washington,DC,District of Columbia,TRUE,,0,0.0,11001,District of Columbia,{'11001':0},District of Columbia,11001,FALSE,FALSE,America/New_York
+32566,30.43717,-86.88927,Navarre,FL,Florida,TRUE,,38112,323.0,12113,Santa Rosa,{'12113':100},Santa Rosa,12113,FALSE,FALSE,America/Chicago
+44662,40.71086,-81.5562,Navarre,OH,Ohio,TRUE,,10020,62.1,39151,Stark,"{'39151':93.51,'39169':6.49}",Stark|Wayne,39151|39169,FALSE,FALSE,America/New_York
+45402,39.75955,-84.21005,Dayton,OH,Ohio,TRUE,,10053,1053.4,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45403,39.76873,-84.14776,Dayton,OH,Ohio,TRUE,,14159,1492.1,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45404,39.79056,-84.16169,Dayton,OH,Ohio,TRUE,,10809,678.4,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45405,39.79241,-84.21589,Dayton,OH,Ohio,TRUE,,16845,1859.3,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45406,39.78436,-84.24166,Dayton,OH,Ohio,TRUE,,19432,1691.0,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45409,39.72428,-84.18758,Dayton,OH,Ohio,TRUE,,15593,1434.8,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45410,39.74803,-84.15815,Dayton,OH,Ohio,TRUE,,16079,2656.5,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45414,39.84254,-84.21244,Dayton,OH,Ohio,TRUE,,20403,358.3,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45415,39.83456,-84.25698,Dayton,OH,Ohio,TRUE,,13519,790.1,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45416,39.80717,-84.25807,Dayton,OH,Ohio,TRUE,,6139,1193.9,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45417,39.73592,-84.28564,Dayton,OH,Ohio,TRUE,,29332,368.7,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45419,39.71341,-84.16715,Dayton,OH,Ohio,TRUE,,15097,1519.5,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45420,39.71954,-84.13057,Dayton,OH,Ohio,TRUE,,25145,1585.7,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45424,39.84674,-84.11122,Dayton,OH,Ohio,TRUE,,50804,612.2,39113,Montgomery,"{'39057':1.34,'39109':0.62,'39113':98.04}",Montgomery|Greene|Miami,39113|39057|39109,FALSE,FALSE,America/New_York
+45426,39.80178,-84.31473,Dayton,OH,Ohio,TRUE,,15730,305.3,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45428,39.74291,-84.26066,Dayton,OH,Ohio,TRUE,,335,157.2,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45429,39.68478,-84.16102,Dayton,OH,Ohio,TRUE,,25740,1005.7,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45430,39.71286,-84.08443,Dayton,OH,Ohio,TRUE,,7289,568.7,39057,Greene,{'39057':100},Greene,39057,FALSE,FALSE,America/New_York
+45431,39.76454,-84.07957,Dayton,OH,Ohio,TRUE,,28084,886.8,39113,Montgomery,"{'39057':48.65,'39113':51.35}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+45432,39.73905,-84.08566,Dayton,OH,Ohio,TRUE,,14818,785.0,39057,Greene,"{'39057':53.81,'39113':46.19}",Greene|Montgomery,39057|39113,FALSE,FALSE,America/New_York
+45433,39.81256,-84.05835,Dayton,OH,Ohio,TRUE,,2734,71.9,39057,Greene,"{'39057':90.35,'39113':9.65}",Greene|Montgomery,39057|39113,FALSE,FALSE,America/New_York
+45434,39.72158,-84.02895,Dayton,OH,Ohio,TRUE,,12256,446.7,39057,Greene,{'39057':100},Greene,39057,FALSE,FALSE,America/New_York
+45439,39.70107,-84.21876,Dayton,OH,Ohio,TRUE,,10185,627.5,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45440,39.67399,-84.09861,Dayton,OH,Ohio,TRUE,,20633,850.2,39113,Montgomery,"{'39057':41.92,'39113':58.08}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+45449,39.66468,-84.24127,Dayton,OH,Ohio,TRUE,,17914,1057.7,39113,Montgomery,{'39113':100},Montgomery,39113,FALSE,FALSE,America/New_York
+45458,39.60072,-84.15813,Dayton,OH,Ohio,TRUE,,32068,576.5,39113,Montgomery,"{'39057':0.96,'39113':93.59,'39165':5.45}",Montgomery|Warren|Greene,39113|39165|39057,FALSE,FALSE,America/New_York
+45459,39.64691,-84.16957,Dayton,OH,Ohio,TRUE,,26979,759.4,39113,Montgomery,"{'39057':0.35,'39113':99.65}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+68068,41.39789,-96.20854,Washington,NE,Nebraska,TRUE,,78,286.9,31177,Washington,{'31177':100},Washington,31177,FALSE,FALSE,America/Chicago
+71862,33.76964,-93.7342,Washington,AR,Arkansas,TRUE,,511,4.6,05057,Hempstead,{'05057':100},Hempstead,05057,FALSE,FALSE,America/Chicago
+80902,38.68317,-104.80786,Colorado Springs,CO,Colorado,TRUE,,13208,330.8,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80903,38.83129,-104.81527,Colorado Springs,CO,Colorado,TRUE,,15519,1201.8,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80904,38.86065,-104.87201,Colorado Springs,CO,Colorado,TRUE,,20235,804.7,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80905,38.81793,-104.83686,Colorado Springs,CO,Colorado,TRUE,,16363,1265.2,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80906,38.76566,-104.87161,Colorado Springs,CO,Colorado,TRUE,,36199,312.2,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80907,38.87828,-104.82742,Colorado Springs,CO,Colorado,TRUE,,28897,1045.0,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80908,39.04773,-104.68949,Colorado Springs,CO,Colorado,TRUE,,17807,56.0,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80909,38.85267,-104.7758,Colorado Springs,CO,Colorado,TRUE,,39119,1647.2,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80910,38.81252,-104.77433,Colorado Springs,CO,Colorado,TRUE,,30196,1921.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80911,38.75328,-104.72209,Colorado Springs,CO,Colorado,TRUE,,35170,978.2,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80913,38.70279,-104.77235,Colorado Springs,CO,Colorado,TRUE,,3753,43.8,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80914,38.82397,-104.70425,Colorado Springs,CO,Colorado,TRUE,,443,212.7,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80915,38.85232,-104.7158,Colorado Springs,CO,Colorado,TRUE,,21325,968.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80916,38.8052,-104.71312,Colorado Springs,CO,Colorado,TRUE,,41098,778.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80917,38.88606,-104.74545,Colorado Springs,CO,Colorado,TRUE,,31541,1733.5,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80918,38.91152,-104.78023,Colorado Springs,CO,Colorado,TRUE,,49232,1465.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80919,38.92714,-104.85416,Colorado Springs,CO,Colorado,TRUE,,28146,736.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80920,38.95757,-104.77078,Colorado Springs,CO,Colorado,TRUE,,39758,1178.5,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80921,39.00562,-104.91018,Colorado Springs,CO,Colorado,TRUE,,23618,84.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80922,38.89064,-104.70061,Colorado Springs,CO,Colorado,TRUE,,29134,1713.0,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80923,38.92698,-104.71468,Colorado Springs,CO,Colorado,TRUE,,29360,1474.3,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80924,38.96751,-104.7211,Colorado Springs,CO,Colorado,TRUE,,8652,321.0,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80925,38.75071,-104.65047,Colorado Springs,CO,Colorado,TRUE,,10836,96.5,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80926,38.6458,-104.91865,Colorado Springs,CO,Colorado,TRUE,,1938,8.4,08041,El Paso,"{'08041':94.73,'08043':5.27}",El Paso|Fremont,08041|08043,FALSE,FALSE,America/Denver
+80927,38.92862,-104.65804,Colorado Springs,CO,Colorado,TRUE,,3884,53.3,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80928,38.64916,-104.45202,Colorado Springs,CO,Colorado,TRUE,,1390,1.4,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80929,38.82464,-104.62694,Colorado Springs,CO,Colorado,TRUE,,140,4.1,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80930,38.81433,-104.50236,Colorado Springs,CO,Colorado,TRUE,,1995,8.7,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80938,38.90481,-104.66327,Colorado Springs,CO,Colorado,TRUE,,112,2.0,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+80939,38.87791,-104.67732,Colorado Springs,CO,Colorado,TRUE,,0,0.0,08041,El Paso,{'08041':0},El Paso,08041,FALSE,FALSE,America/Denver
+80951,38.88808,-104.65565,Colorado Springs,CO,Colorado,TRUE,,4435,348.5,08041,El Paso,{'08041':100},El Paso,08041,FALSE,FALSE,America/Denver
+87417,36.74406,-108.34506,Kirtland,NM,New Mexico,TRUE,,5703,224.1,35045,San Juan,{'35045':100},San Juan,35045,FALSE,FALSE,America/Denver
