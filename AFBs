@@ -1,0 +1,239 @@
+,index,Name,Location,State or area,Lat,Long,Zip
+0,0,Altus Air Force Base,Altus,Oklahoma,34.66639,-99.26806,None
+1,1,Joint Base Anacostia-Bolling,Southwest,"Washington, D.C.",38.84278,-77.01611,20332
+2,2,Joint Base Andrews-Naval Air Facility Washington,Camp Springs,Maryland,38.81083,-76.86694,20762
+3,3,Arnold Air Force Base,Tullahoma,Tennessee,35.3925,-86.08583,37388
+4,4,Barksdale Air Force Base,Bossier City,Louisiana,32.50194,-93.66278,71110
+5,5,Beale Air Force Base,Marysville,California,39.13611,-121.43639,95903
+6,6,Cannon Air Force Base,Clovis,New Mexico,34.38278,-103.32222,88103
+7,7,Joint Base Charleston,Charleston,South Carolina,32.89861,-80.04056,29406
+8,8,Columbus Air Force Base,Columbus,Mississippi,33.64389,-88.44389,39710
+9,9,Creech Air Force Base,Indian Springs,Nevada,36.58722,-115.67333,89018
+10,10,Davis–Monthan Air Force Base,Tucson,Arizona,32.16639,-110.88306,85708
+11,11,Dover Air Force Base,Dover,Delaware,39.12833,-75.46472,19902
+12,12,Dyess Air Force Base,Abilene,Texas,32.42083,-99.85472,None
+13,13,Edwards Air Force Base,Edwards,California,34.90556,-117.88361,93524
+14,14,Eglin Air Force Base,Valparaiso,Florida,30.483,-86.533,32542
+15,15,Ellsworth Air Force Base,Box Elder,South Dakota,44.145,-103.10361,None
+16,16,Francis E. Warren Air Force Base,Cheyenne,Wyoming,41.13306,-104.86694,82005
+17,17,Fairchild Air Force Base,Spokane,Washington,47.615,-117.65556,99011
+18,18,Fort George G. Meade,Odenton,Maryland,39.10694,-76.74306,20755
+19,19,Gila Bend Air Force Auxiliary Field,Gila Bend,Arizona,32.8875,-112.72,None
+20,20,Goodfellow Air Force Base,San Angelo,Texas,31.42944,-100.39889,76908
+21,21,Grand Forks Air Force Base,Grand Forks,North Dakota,47.96111,-97.40111,58205
+22,22,Hanscom Air Force Base,Lincoln,Massachusetts,42.47,-71.28917,01731
+23,23,Hill Air Force Base,Ogden,Utah,41.12389,-111.97278,84056
+24,24,Homey Airport,Groom Lake,Nevada,37.23333,-115.80833,None
+25,25,Holloman Air Force Base,Alamogordo,New Mexico,32.8525,-106.10639,88330
+26,26,Hurlburt Field,Mary Esther,Florida,30.42778,-86.68944,32544
+27,27,Keesler Air Force Base,Biloxi,Mississippi,30.41139,-88.92361,39534
+28,28,Kegelman Air Force Auxiliary Field,Cherokee,Oklahoma,36.73806,-98.12611,None
+29,29,Kirtland Air Force Base,Albuquerque,New Mexico,35.04028,-106.60917,87106
+30,30,Joint Base Langley–Eustis,Hampton,Virginia,37.08278,-76.36056,23669
+31,31,Laughlin Air Force Base,Del Rio,Texas,29.35944,-100.77806,78843
+32,32,Joint Base Lewis-McChord,Tacoma,Washington,47.1475,-122.47944,98499
+33,33,Little Rock Air Force Base,Jacksonville,Arkansas,34.91694,-92.14639,72099
+34,34,Los Angeles Air Force Base,El Segundo,California,33.9191083,-118.3806194,90261
+35,35,Luke Air Force Base,Glendale,Arizona,33.535,-112.38306,85309
+36,36,MacDill Air Force Base,Tampa,Florida,27.84944,-82.52111,33616
+37,37,Malmstrom Air Force Base,Great Falls,Montana,47.50472,-111.18722,59402
+38,38,Maxwell Air Force Base,Montgomery,Alabama,32.37917,-86.3625,36112
+39,39,McConnell Air Force Base,Wichita,Kansas,37.62306,-97.26722,67221
+40,40,Joint Base McGuire–Dix–Lakehurst,Trenton,New Jersey,40.01917,-74.52278,08511
+41,41,Minot Air Force Base,Minot,North Dakota,48.41583,-101.35806,58705
+42,42,Moody Air Force Base,Valdosta,Georgia,30.96778,-83.19278,31699
+43,43,Mountain Home Air Force Base,Mountain Home,Idaho,43.04361,-115.8725,83648
+44,44,Nellis Air Force Base,Las Vegas,Nevada,36.23611,-115.03417,89191
+45,45,North Auxiliary Airfield,North,South Carolina,33.61694,-81.08306,29112
+46,46,Offutt Air Force Base,Bellevue,Nebraska,41.11944,-95.90861,68113
+47,47,Patrick Space Force Base,Brevard County,Florida,28.235,-80.61,32925
+48,48,Naval Air Station Pensacola,Pensacola,Florida,30.3525,-87.31778,32508
+49,49,Peterson Space Force Base,Colorado Springs,Colorado,38.82361,-104.695,80916
+50,50,Pope Field,Fayetteville,North Carolina,35.17083,-79.01444,28307
+51,51,Robins Air Force Base,Warner Robins,Georgia,32.64,-83.59167,31098
+52,52,Rome Research Site,Rome,New York,43.221361,-75.408556,13441
+53,53,Joint Base San Antonio,San Antonio,Texas,29.44889,-98.44889,78234
+54,54,Scott Air Force Base,Belleville,Illinois,38.54528,-89.83528,62225
+55,55,Seymour Johnson Air Force Base,Goldsboro,North Carolina,35.33944,-77.96056,27531
+56,56,Shaw Air Force Base,Sumter,South Carolina,33.97306,-80.47278,29152
+57,57,Sheppard Air Force Base,Wichita Falls,Texas,33.98889,-98.49194,76311
+58,58,Tinker Air Force Base,Oklahoma City,Oklahoma,35.41472,-97.38667,73135
+59,59,Tonopah Test Range Airport,Tonopah,Nevada,37.79472,-116.77861,None
+60,60,Travis Air Force Base,Fairfield,California,38.26278,-121.9275,94535
+61,61,Tyndall Air Force Base,Panama City,Florida,30.07861,-85.57639,32403
+62,62,United States Air Force Academy,Colorado Springs,Colorado,38.99028,-104.85833,80840
+63,63,Vance Air Force Base,Enid,Oklahoma,36.33944,-97.91722,None
+64,64,Vandenberg Space Force Base,Lompoc,California,34.7325,-120.56806,93437
+65,65,Whiteman Air Force Base,Knob Noster,Missouri,38.73028,-93.54806,65305
+66,66,Wright-Patterson Air Force Base,Dayton,Ohio,39.82306,-84.04944,45324
+67,0,Abston Air National Guard Station,Montgomery,nan,32.35611,-86.34667,36108
+68,1,Atlantic City Air National Guard Base,Atlantic City,nan,39.44806,-74.58167,08405
+69,2,Bangor Air National Guard Base,Bangor,nan,44.81417,-68.83083,04401
+70,3,Barnes Air National Guard Base,Westfield,nan,42.16556,-72.72056,01703
+71,4,Battle Creek Air National Guard Base,Springfield,nan,42.307278,-85.251472,49037
+72,5,Berry Field Air National Guard Base,Nashville,nan,36.12667,-86.68194,37214
+73,6,Bradley Air National Guard Base,Windsor Locks,nan,41.93889,-72.68333,06096
+74,7,Brunswick Air National Guard Station,Brunswick,nan,31.24775,-81.48583,31525
+75,8,Buckley Space Force Base,Aurora,nan,39.70167,-104.75167,80017
+76,9,Burlington Air National Guard Base,Burlington,nan,44.47278,-73.14667,05403
+77,10,Camp Murray Air National Guard Station,Tacoma,nan,47.11806,-122.56,98430
+78,11,Camp Rilea,Warrenton,nan,46.12917,-123.94389,97146
+79,12,Capital Airport Air National Guard Station,Springfield,nan,39.84417,-89.67806,62707
+80,13,Channel Islands Air National Guard Station,Oxnard,nan,34.115,-119.11028,93042
+81,14,Charlotte Air National Guard Base,Charlotte,nan,35.21611,-80.93194,28208
+82,15,Dallas Air Guard Station,Grand Prairie,nan,32.74,-96.97,75051
+83,16,Des Moines Air National Guard Base,Des Moines,nan,41.53833,-93.65944,50321
+84,17,Dobbins Air Reserve Base,Marietta,nan,33.91528,-84.51639,30069
+85,18,Duke Field,Crestview,nan,30.65028,-86.52278,None
+86,19,Duluth Air National Guard Base,Duluth,nan,46.84222,-92.19361,55811
+87,20,Eastern Air Defense Sector,Rome,nan,43.216611,-75.404833,13441
+88,21,Ebbing Air National Guard Base,Fort Smith,nan,35.33667,-94.3675,72905
+89,22,Ellington Field Joint Reserve Base,Houston,nan,29.60722,-95.15889,77062
+90,23,Fargo Air National Guard Base,Fargo,nan,46.92056,-96.81583,58105
+91,24,Forbes Field Air National Guard Base,Topeka,nan,38.95111,-95.66583,66624
+92,25,Fort Bliss,El Paso,nan,31.80194,-106.42472,79916
+93,26,Fort Dodge Air National Guard Station,Fort Dodge,nan,42.550694,-94.17925,50501
+94,27,Fort Wayne Air National Guard Base,Fort Wayne,nan,40.97833,-85.195,46809
+95,28,Naval Air Station Joint Reserve Base Fort Worth,Fort Worth,nan,32.76917,-97.44167,76127
+96,29,Francis S. Gabreski Air National Guard Base,Westhampton Beach,nan,40.83694,-72.64222,11978
+97,30,Fresno Air National Guard Base,Fresno,nan,36.77611,-119.73056,93727
+98,31,General Mitchell Air National Guard Base,Milwaukee,nan,42.94722,-87.89667,53207
+99,32,Gowen Field Air National Guard Base,Boise,nan,43.56444,-116.22278,83705
+100,33,Great Falls Air National Guard Base,Great Falls,nan,47.482,-111.3706833,59404
+101,34,Greeley Air National Guard Station,Greeley,nan,40.423833,-104.640167,None
+102,35,Grissom Air Reserve Base,Kokomo,nan,40.64806,-86.15222,46971
+103,36,Goldwater Air National Guard Base,Phoenix,nan,33.42667,-112.01194,85040
+104,37,Gulfport Combat Readiness Training Center,Gulfport,nan,30.40722,-89.07,39502
+105,38,Hall Air Guard Station,Dothan,nan,31.329639,-85.465889,36350
+106,39,Hancock Field Air National Guard Base,Syracuse,nan,43.11139,-76.12361,13057
+107,40,Harrisburg Air Station Middletown,Middletown,nan,40.19361,-76.76333,17057
+108,41,Homestead Air Reserve Base,Homestead,nan,25.48833,-80.38361,33039
+109,42,Horsham Air National Guard Station,Horsham Township,nan,40.19972,-75.14806,19044
+110,43,Hulman Field Air National Guard Base,Terre Haute,nan,39.45139,-87.3075,47803
+111,44,Jackson Air National Guard Base,Jackson,nan,32.31111,-90.07583,39232
+112,45,Jacksonville Air National Guard Base,"Jacksonville, Florida",nan,30.49417,-81.68778,32218
+113,46,Jefferson Barracks Air National Guard Station,St Louis,nan,38.503972,-90.28025,63125
+114,47,Joe Foss Field Air National Guard Station,Sioux Falls,nan,43.58194,-96.74194,57104
+115,48,Johnstown Air National Guard Station,Johnstown,nan,40.323194,-78.837694,15904
+116,49,Key Field Air National Guard Base,Meridian,nan,32.3325,-88.75194,39307
+117,50,Kingsley Field Air National Guard Base,Klamath Falls,nan,42.15611,-121.73306,97603
+118,51,Lincoln Air National Guard Base,Lincoln,nan,40.85111,-96.75917,68524
+119,52,Louisville Air National Guard Base,Louisville,nan,38.17806,-85.72472,40213
+120,53,Mansfield Lahm Air National Guard Base,Mansfield,nan,40.81361,-82.51667,None
+121,54,March Joint Air Reserve Base,Riverside,nan,33.88056,-117.25944,92551
+122,55,McEntire Joint National Guard Base,Eastover,nan,33.92083,-80.80111,29044
+123,56,McGhee Tyson Air National Guard Base,Knoxville,nan,35.81083,-83.99389,37701
+124,57,McLaughlin Air National Guard Base,Charleston,nan,38.37306,-81.59306,25311
+125,58,Memphis Air National Guard Base,Memphis,nan,35.0425,-89.97667,38118
+126,59,Minneapolis-Saint Paul Joint Air Reserve Station,Minneapolis – Saint Paul,nan,44.88167,-93.23361,55450
+127,60,Moffett Federal Airfield,Mountain View,nan,37.415,-122.04833,94035
+128,61,Montgomery Air National Guard Base,Montgomery,nan,32.30444,-86.40028,36108
+129,62,Morris Air National Guard Base,Tucson,nan,32.11528,-110.93056,85706
+130,63,New Castle Air National Guard Base,New Castle,nan,39.68528,-75.59917,19721
+131,64,New London Air National Guard Base,New London,nan,35.418583,-80.14167,28127
+132,65,Naval Air Station Joint Reserve Base New Orleans,Belle Chasse,nan,29.82528,-90.035,70037
+133,66,Niagara Falls Air Reserve Station,Niagara Falls,nan,43.11333,-78.9475,14304
+134,67,North Highlands Air National Guard Station,"Sacramento, California",nan,38.64,-121.4025,95652
+135,68,North Smithfield Air National Guard Station,North Smithfield,nan,41.97028,-71.575667,02876
+136,69,Otis Air National Guard Base,Mashpee,nan,41.65861,-70.52139,02542
+137,70,Pease Air National Guard Base,Portsmouth,nan,43.07806,-70.82333,03801
+138,71,Peoria Air National Guard Base,Peoria,nan,40.66056,-89.69556,61607
+139,72,Peterson Space Force Base,Colorado Springs,nan,38.82361,-104.695,80916
+140,73,Pittsburgh International Airport Air Reserve Station,Pittsburgh,nan,40.4945806,-80.215475,None
+141,74,Portland Air National Guard Base,Portland,nan,45.58222,-122.58972,97238
+142,75,Quonset Point Air National Guard Station,North Kingstown,nan,41.59722,-71.41222,02852
+143,76,Reno Air National Guard Base,Reno,nan,39.49917,-119.76806,89510
+144,77,Rickenbacker Air National Guard Base,Columbus,nan,39.81361,-82.94667,43217
+145,78,Roland R. Wright Air National Guard Base,Salt Lake City,nan,40.78833,-111.97778,84122
+146,79,Rosecrans Air National Guard Base,St. Joseph,nan,39.77194,-94.9097056,66024
+147,80,San Diego Air National Guard Station,San Diego,nan,32.83611,-117.16056,92111
+148,81,Savannah Air National Guard Base,Savannah,nan,32.1275,-81.20194,31418
+149,82,Schriever Space Force Base,Colorado Springs,nan,38.80333,-104.52556,80930
+150,83,Selfridge Air National Guard Base,Mount Clemens,nan,42.60833,-82.83556,48046
+151,84,Sepulveda Air National Guard Station,Van Nuys,nan,34.185944,-118.48,91411
+152,85,Shepherd Field Air National Guard Base,Martinsburg,nan,39.40194,-77.98444,25405
+153,86,Sioux City Air National Guard Base,Sioux City,nan,42.39833,-96.37194,51111
+154,87,South Portland Air National Guard Station,South Portland,nan,43.633583,-70.316306,04106
+155,88,Springfield Air National Guard Base,Springfield,nan,39.84028,-83.84028,45316
+156,89,Stewart Air National Guard Base,Newburgh,nan,41.50417,-74.10472,12475
+157,90,Stratton Air National Guard Base,Schenectady,nan,42.8525,-73.9225,12302
+158,91,Sumpter Smith Air National Guard Base,Birmingham,nan,33.56389,-86.75222,35217
+159,92,Toledo Air National Guard Base,Toledo,nan,41.586806,-83.807833,43558
+160,93,Truax Field Air National Guard Base,Madison,nan,43.13972,-89.3375,53704
+161,94,Tulsa Air National Guard Base,Tulsa,nan,36.19833,-95.88806,74115
+162,95,Volk Field Air National Guard Base,New Lisbon,nan,43.93639,-90.25972,54618
+163,96,Volunteer Air National Guard Station,Chattanooga,nan,35.0735861,-85.1635,37416
+164,97,Warfield Air National Guard Base,Middle River,nan,39.3256611,-76.4137639,21221
+165,98,Westover Air Reserve Base,Chicopee,nan,42.19389,-72.53472,01020
+166,99,Will Rogers Air National Guard Base,Oklahoma City,nan,35.39306,-97.60083,73159
+167,100,Wyoming Air National Guard Base,Cheyenne,nan,41.16139,-104.81944,82099
+168,101,Youngstown Air Reserve Station,Youngstown,nan,41.2607333,-80.6790944,44473
+169,0,Guantanamo Bay Naval Base,Cuba,nan,19.9,-75.15,09593
+170,1,Hato International Airport,Curaçao,nan,12.18889,-68.95972,None
+171,2,Muñiz Air National Guard Base,Puerto Rico,nan,18.43944,-66.00194,00979
+172,3,Punta Borinquen Radar Station,Puerto Rico,nan,18.485,-67.14889,00604
+173,4,Punta Salinas Air National Guard Station,Puerto Rico,nan,18.375,-66.26167,00953
+174,5,Queen Beatrix International Airport,Aruba,nan,12.50139,-70.01528,None
+175,6,Soto Cano Air Base,Honduras,nan,14.3825,-87.62111,None
+176,7,St Croix Air National Guard Station,United States Virgin Islands,nan,17.706722,-64.800528,None
+177,0,Andersen Air Force Base,Guam,nan,13.57611,144.92444,None
+178,1,Air Station Barbers Point,United States (Hawaii),nan,21.30722,-158.07028,96707
+179,2,Bellows Air Force Station,United States (Hawaii),nan,21.3629306,-157.7199361,96735
+180,3,Eareckson Air Station,United States (Alaska),nan,52.71222,174.11361,None
+181,4,Eielson Air Force Base,United States (Alaska),nan,64.66556,-147.10139,99714
+182,5,Joint Base Elmendorf-Richardson,United States (Alaska),nan,61.25139,-149.80639,99506
+183,6,Kadena Air Base,Japan,nan,26.35167,127.76944,904-0101
+184,7,King Salmon Long Range Radar Site,United States (Alaska),nan,58.6925,-156.669722,None
+185,8,Kunsan Air Base,South Korea,nan,35.90361,126.61583,54170
+186,9,Marine Corps Air Station Iwakuni,Japan,nan,34.145,132.24417,740-8511
+187,10,Misawa Air Base,Japan,nan,40.70528,141.37194,033-0001
+188,11,Naval Support Facility Diego Garcia,British Indian Ocean Territory,nan,-7.31333,72.41111,None
+189,12,Osan Air Base,South Korea,nan,37.09056,127.02972,17758
+190,13,Paya Lebar Airbase,Singapore,nan,1.36028,103.90944,530356
+191,14,Joint Base Pearl Harbor-Hickam,United States (Hawaii),nan,21.34972,-157.95861,96818
+192,15,United States Fleet Activities Sasebo,Japan,nan,33.16278,129.71139,857-0871
+193,16,Wake Island Airfield,United States Minor Outlying Islands,nan,19.2825,166.63667,None
+194,17,Yokota Air Base,Japan,nan,35.74861,139.34861,190-1244
+195,0,Ämari Air Base,Estonia,nan,59.26222,24.21861,76102
+196,1,Ankara Support Facility,Turkey,nan,,,None
+197,2,Aviano Air Base,Italy,nan,46.03139,12.59694,33081
+198,3,Büchel Air Base,Germany,nan,50.17639,7.05778,56825
+199,4,Camp Darby,Italy,nan,43.63333,10.31667,56100
+200,5,Camp Lemonnier,Djibouti,nan,11.54361,43.14861,None
+201,6,Camp Simba,Kenya,nan,-2.165778,40.894472,None
+202,7,Câmpia Turzii (71st Air Base),Romania,nan,46.50333,23.88528,407132
+203,8,Chabelley Airfield,Djibouti,nan,11.517,43.067,None
+204,9,Chièvres Air Base,Belgium,nan,50.5859944,3.8437417,7940
+205,10,Einsiedlerhof Air Station,Germany,nan,49.428528,7.054306,66646
+206,11,Ghedi Air Base,Italy,nan,45.4312694,10.2801111,25016
+207,12,Incirlik Air Base,Turkey,nan,37.00194,35.42583,01340
+208,13,Izmir Air Station,Turkey,nan,38.4575,27.17028,35530
+209,14,Kleine Brogel Air Base,Belgium,nan,51.169583,5.47194,None
+210,15,Lajes Field,Azores,nan,38.76167,-27.09056,9760-275
+211,16,Łask Air Base,Poland,nan,51.5516,19.1791,98-100
+212,17,Morón Air Base,Spain,nan,37.17472,-5.61583,None
+213,18,NATO Air Base Geilenkirchen,Germany,nan,50.96083,6.0425,52511
+214,19,Nigerien Air Base 101,Niger,nan,13.48167,2.17028,5001
+215,20,Nigerien Air Base 201,Niger,nan,16.95028,8.01389,None
+216,21,RAF Akrotiri,Sovereign Base Areas of Akrotiri and Dhekelia,nan,34.58333,32.98333,None
+217,22,RAF Alconbury,United Kingdom,nan,52.3709083,-0.2269278,PE28 4GB
+218,23,RAF Barford St John,United Kingdom,nan,52.00361,-1.36,OX15 0PR
+219,24,RAF Croughton,United Kingdom,nan,51.9875,-1.18611,None
+220,25,RAF Fairford,United Kingdom,nan,51.68222,-1.79,GL7 4HE
+221,26,RAF Feltwell,United Kingdom,nan,52.47944,0.51917,IP26 4HH
+222,27,RAF Lakenheath,United Kingdom,nan,52.40833,0.55667,IP27 9PN
+223,28,RAF Menwith Hill,United Kingdom,nan,54.007875,-1.6895,HG3 2RG
+224,29,RAF Mildenhall,United Kingdom,nan,52.365,0.48083,IP28 8WA
+225,30,RAF Molesworth,United Kingdom,nan,52.37944,-0.405,PE28 5AG
+226,31,RAF Welford,United Kingdom,nan,51.46833,-1.40361,RG20 7EX
+227,32,Ramstein Air Base,Germany,nan,49.4439167,7.6022583,66877
+228,33,Spangdahlem Air Base,Germany,nan,49.97583,6.69722,54529
+229,34,Stavanger,Norway,nan,58.9075,5.72167,4032
+230,35,Volkel Air Base,Netherlands,nan,51.65722,5.69083,5408 SM
+231,0,Abdullah Al Mubarak Air Base (Cargo City),Kuwait,nan,29.22667,47.98,46010
+232,1,Al Dhafra Air Base,United Arab Emirates,nan,24.24806,54.5475,None
+233,2,Al Udeid Air Base,Qatar,nan,25.11722,51.31472,None
+234,3,Ali Al Salem Air Base,Kuwait,nan,29.34667,47.52056,None
+235,4,Ahmad al-Jaber Air Base,Kuwait,nan,28.934917,47.792028,None
+236,5,Muwaffaq Salti Air Base,Jordan,nan,31.83417,36.78722,None
+237,6,Prince Sultan Air Base,Saudi Arabia,nan,24.05528,47.56361,None
